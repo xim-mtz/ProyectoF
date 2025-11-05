@@ -15,3 +15,6 @@ Soy estudiante apasionada por la tecnología, el diseño y la innovación. Me gu
 ## Lema
 > *Para ser una estrella tienes que arder ✨*
 
+## Contacto
+- Email: contacto@example.com
+- GitHub: https://github.com/xim-mtz
