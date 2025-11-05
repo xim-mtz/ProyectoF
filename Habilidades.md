@@ -31,3 +31,4 @@
 | Trabajo en equipo | ⭐⭐⭐⭐⭐ |
 
 > *Siempre aprendiendo y mejorando mis habilidades*
+✅ Siempre buscando aprender tecnologías nuevas.
