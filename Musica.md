@@ -25,3 +25,5 @@ Estas son algunas canciones y artistas que disfruto y que me ayudan a concentrar
 Me encanta estudiar con música que tenga un ritmo suave para poder concentrarme mejor ✨
 
 🎶 Nueva recomendación: musica lo-fi para programar.
+
+🎶 Nueva recomendación: Música Lo-Fi para estudiar y programar.
