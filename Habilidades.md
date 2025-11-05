@@ -29,3 +29,5 @@
 | Git & GitHub | ⭐⭐⭐⭐ |
 | Python | ⭐⭐⭐ |
 | Trabajo en equipo | ⭐⭐⭐⭐⭐ |
+
+> *Siempre aprendiendo y mejorando mis habilidades*
