@@ -16,3 +16,5 @@ Durante este curso aprendí a utilizar herramientas y flujos de trabajo que se u
 - Git Bash / Terminal
 - GitHub Desktop (opcional)
 - Pull Requests y Forks
+
+> *La mejor forma de aprender Git es cometer errores y solucionarlos.*
