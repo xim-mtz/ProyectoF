@@ -21,3 +21,11 @@
 ## 💻 Conocimientos adicionales
 - Bases de datos relacionales
 - Control de versiones colaborativo
+
+## ⭐ Niveles de dominio
+
+| Habilidad | Nivel |
+|----------|-------|
+| Git & GitHub | ⭐⭐⭐⭐ |
+| Python | ⭐⭐⭐ |
+| Trabajo en equipo | ⭐⭐⭐⭐⭐ |
