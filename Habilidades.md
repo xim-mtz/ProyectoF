@@ -17,3 +17,7 @@
 - VSCode
 - Git Bash / Terminal
 - CircuitVerse
+
+## 💻 Conocimientos adicionales
+- Bases de datos relacionales
+- Control de versiones colaborativo
