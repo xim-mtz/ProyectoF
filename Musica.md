@@ -14,3 +14,7 @@ Estas son algunas canciones y artistas que disfruto y que me ayudan a concentrar
 - Meet Me Halfway - The Black Eyed Peas
 - Call Me - Blondie
 > La música es una forma de sentir el mundo ✨
+
+### 📎 Enlaces sugeridos
+- https://open.spotify.com/playlist/37i9dQZF1DX6ziVCJnEm59
+- https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6
