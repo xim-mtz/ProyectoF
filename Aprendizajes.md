@@ -11,3 +11,8 @@ Durante este curso aprendí a utilizar herramientas y flujos de trabajo que se u
 - Hacer commits pequeños y frecuentes.
 - Escribir mensajes de commit claros usando `feat:`, `fix:`, etc.
 - Mantener la rama `main` siempre estable.
+
+### 🛠️ Herramientas aprendidas
+- Git Bash / Terminal
+- GitHub Desktop (opcional)
+- Pull Requests y Forks
