@@ -20,3 +20,6 @@ Estas son algunas canciones y artistas que disfruto y que me ayudan a concentrar
 - https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6
 
 > *La música siempre mejora el código que escribo 🎧✨*
+
+### 🎵 Fun fact musical
+Me encanta estudiar con música que tenga un ritmo suave para poder concentrarme mejor ✨
