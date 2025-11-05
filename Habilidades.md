@@ -32,3 +32,5 @@
 
 > *Siempre aprendiendo y mejorando mis habilidades*
 ✅ Siempre buscando aprender tecnologías nuevas.
+
+✅ Siempre buscando aprender tecnologías nuevas y mejorar día a día.
