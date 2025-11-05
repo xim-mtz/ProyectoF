@@ -18,3 +18,6 @@ Soy estudiante apasionada por la tecnología, el diseño y la innovación. Me gu
 ## Contacto
 - Email: contacto@example.com
 - GitHub: https://github.com/xim-mtz
+
+- Email: xime.mtz87@ciencias.unam.mx
+- GitHub: https://github.com/xim-mtz/ProyectoF.git
